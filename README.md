@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning about Docker, Kubernetes, and cloud hosting using Azure and AWS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with making open source software more accessible and widespread to regular end users
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Daniel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-howard-746aa6142)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-dhoward-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-howard-746aa6142)
