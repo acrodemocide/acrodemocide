@@ -1,6 +1,6 @@
 <h1>Software Engineer at Veracity</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acrodemocide&theme=dark)](https://github.com/acrodemocide/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acrodemocide&theme=merko)](https://github.com/acrodemocide/github-readme-stats)
 
 - 🔭 I’m currently working as a software engineer contractor who specializes in full-stack web development.
 - 🌱 I’m currently learning about Docker, Kubernetes, and cloud hosting using Azure and AWS
