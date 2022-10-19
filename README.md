@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<!--
-**acrodemocide/acrodemocide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<h1>Software Engineer at Veracity</h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acrodemocide)](https://github.com/acrodemocide/github-readme-stats)
 
