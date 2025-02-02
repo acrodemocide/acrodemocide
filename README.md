@@ -1,4 +1,4 @@
-<h1>Senior Software Engineer at EverCommerce</h1>
+<h1>Software Engineering Manager at EverCommerce</h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acrodemocide&theme=merko)](https://github.com/acrodemocide/github-readme-stats)
 
